@@ -53,9 +53,10 @@ a {
   background: #003aa0;
 }
 
-#slide {
+#slide img {
   background: #003aa0;
-  width: 100vw;
+  display: block;
+  /* width: 100vw; */
   height: 500px;
 }
 
