@@ -54,7 +54,7 @@ a {
 }
 
 #slide {
-  background: url('../img/egmarket7.jpg') no-repeat center center/cover;
+  background: url('/img/egmarket7.jpg') no-repeat center center/cover;
   /* width: 100vw; */
   height: 500px;
 }
